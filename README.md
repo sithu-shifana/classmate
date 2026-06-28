@@ -4,7 +4,7 @@ A simple landing page built using HTML and CSS. This was my first project to und
 
 ## 🌐 Live Demo
 
-https://yourusername.github.io/repository-name/
+https://sithu-shifana.github.io/classmate/
 
 ## 🛠️ Technologies Used
 
